@@ -1,2 +1,2 @@
 # Durak-injector
-Dumb inject for lsawin
+Dumb inject for windows lsass process
