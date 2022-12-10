@@ -29,9 +29,9 @@ int main()
     PROCESS_INFORMATION pi = {0};
     si.dwFlags = 0x00000001;
     si.wShowWindow = 0;
-    LPCWSTR lpUsername = L"Not!"; 
-    LPCWSTR lpDomain = L"Your!";
-    LPCWSTR lpPassword = L"Business!"; 
+    LPCWSTR lpUsername = L"test"; 
+    LPCWSTR lpDomain = L"test";
+    LPCWSTR lpPassword = L"test"; 
     LPCWSTR lpApplicationName = L"[.\test.exe]"; // here you should put the path to your programm
     LPCWSTR lpCurrentDirectory = L"C:\\";
 
